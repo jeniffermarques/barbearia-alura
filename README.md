@@ -27,7 +27,7 @@ O que reaprendi hoje?
 
 - [x] A mexer na apresentação dos textos (text-align, font-size, background, color);
 - [x] CSS Inline (Na linha onde temos a nossa tag, adicionamos a propriedade do CSS);
-- [x] Tag `<style>`  
+- [x] Tag `<style>`; 
 - [x] Apresentação do CSS com um arquivo externo;
 - [x] Como funciona o estilo em cascata do CSS;
 - [x] Como importar um arquivo externo de CSS dentro da página HTML;
