@@ -19,5 +19,17 @@ O que reaprendi hoje?
 - [x] Como passar as informações do *encoding* da nossa página para o navegador, através da *tag* **`<meta>`** e da propriedade **`charset`**;
 - [x] Como definir o título de uma página, através da *tag* **`<title>`**;
 - [x] Como separar as informações que estão sendo passadas para o navegador, utilizando a *tag* **`<head>`**;
-- [ ] Como separar o conteúdo da página, utilizando a *tag* **`<body>`**.
+- [x] Como separar o conteúdo da página, utilizando a *tag* **`<body>`**.
+
+### 12/05/2021 Estilizando imagens, listas e divisões de conteúdos e finalização da página 
+
+O que reaprendi hoje?
+
+- [x] A mexer na apresentação dos textos (text-align, font-size, background, color);
+- [x] CSS Inline (Na linha onde temos a nossa tag, adicionamos a propriedade do CSS);
+- [x] Tag `<style>`  
+- [x] Apresentação do CSS com um arquivo externo;
+- [x] Como funciona o estilo em cascata do CSS;
+- [x] Como importar um arquivo externo de CSS dentro da página HTML;
+- [x] Como representar as cores no CSS (através do nome da cor, hexadecimal e RGB).
 
