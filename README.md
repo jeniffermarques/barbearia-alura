@@ -46,3 +46,12 @@ O que reaprendi hoje?
 - [x] Como ajustar o espaçamento externo do elemento, através da propriedade `margin`;
 - [x] Como se comporta um time de front-end hoje em dia.
 
+### 13/05/2021 - Listas e divisões do conteúdo
+
+O que reaprendi hoje?
+
+- [x] A trabalhar com listas não-ordenadas e listas ordenadas;
+- [x] O conceito das classes no CSS;
+- [x] Como referenciar uma classe no CSS;
+- [x] Divisões de conteúdo utilizando a tag `<div>`;
+- [x] Os comportamentos **inline** e **block**.
