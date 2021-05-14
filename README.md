@@ -55,3 +55,12 @@ O que reaprendi hoje?
 - [x] Como referenciar uma classe no CSS;
 - [x] Divisões de conteúdo utilizando a tag `<div>`;
 - [x] Os comportamentos **inline** e **block**.
+
+**13/05/2021 - Finalizando a página**
+
+O que reaprendi hoje?
+
+- [x] O conceito de cabeçalho da página e como criá-lo;
+- [x] Que o cabeçalho da página deve ter mais destaque;
+- [x] Que não é recomendando criar estilos usando tags.
+
