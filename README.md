@@ -4,9 +4,9 @@
 
 
 
-### 06/05/2021 - Marcação do primeiro texto e separando o conteúdo e informações
+###  Marcação do primeiro texto e separando o conteúdo e informações
 
-O que reaprendi hoje?
+O que reaprendi:
 
 - [x] Introdução ao HTML, e suas tags;
 - [x] Como definir o título e os parágrafos de um texto utilizando as tags **`h1`** e p respectivamente;
@@ -21,9 +21,9 @@ O que reaprendi hoje?
 - [x] Como separar as informações que estão sendo passadas para o navegador, utilizando a *tag* **`<head>`**;
 - [x] Como separar o conteúdo da página, utilizando a *tag* **`<body>`**.
 
-### 12/05/2021 Estilizando imagens 
+### Estilizando imagens 
 
-O que reaprendi hoje?
+O que reaprendi?
 
 - [x] A mexer na apresentação dos textos (text-align, font-size, background, color);
 - [x] CSS Inline (Na linha onde temos a nossa tag, adicionamos a propriedade do CSS);
@@ -32,10 +32,6 @@ O que reaprendi hoje?
 - [x] Como funciona o estilo em cascata do CSS;
 - [x] Como importar um arquivo externo de CSS dentro da página HTML;
 - [x] Como representar as cores no CSS (através do nome da cor, hexadecimal e RGB).
-
-### 13/05/2021 Estilizando imagens
-
-O que reaprendi hoje?
 
 - [x] Como reestruturar o nosso código, removendo o CSS inline e colocando-os no arquivo CSS externo;
 - [x] Como criar um identificador para marcar especificamente um elemento;
@@ -56,16 +52,21 @@ O que reaprendi hoje?
 - [x] Divisões de conteúdo utilizando a tag `<div>`;
 - [x] Os comportamentos **inline** e **block**.
 
-**13/05/2021 - Finalizando a página**
+**Finalizando a página**
 
-O que reaprendi hoje?
+O que reaprendi ?
 
 - [x] O conceito de cabeçalho da página e como criá-lo;
 - [x] Que o cabeçalho da página deve ter mais destaque;
 - [x] Que não é recomendando criar estilos usando tags.
 
-**14/05/2021 - Posicionamento, listas e navegação**
+**Navegação entre páginas**
 
-O que reaprendi hoje?
+O que reaprendi?
 
-- [x] 
+- [ ] A criar link para outras páginas;
+- [ ] Reforço aos estilos `inline` e `block`;
+- [ ] Transformar o texto para ter todas as letras  maiúsculas;
+- [ ] Deixar o texto em negrito com CSS;
+- [ ] Remover a decoração do texto.
+
