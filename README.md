@@ -38,11 +38,11 @@ O que reaprendi hoje?
 O que reaprendi hoje?
 
 - [x] Como reestruturar o nosso código, removendo o CSS inline e colocando-os no arquivo CSS externo
-- [x] Como criar um identificador para marcar especificamente um elemento
-- [x] Como adicionar uma imagem à nossa página
-- [x] Como ajustar a altura do elemento, através da propriedade `height`
-- [x] Como ajustar a largura do elemento, através da propriedade `width`
-- [x] Como ajustar o espaçamento interno do elemento, através da propriedade `padding`
-- [x] Como ajustar o espaçamento externo do elemento, através da propriedade `margin`
-- [x] Como se comporta um time de front-end hoje em dia
+- [x] Como criar um identificador para marcar especificamente um elemento;
+- [x] Como adicionar uma imagem à nossa página;
+- [x] Como ajustar a altura do elemento, através da propriedade `height`;
+- [x] Como ajustar a largura do elemento, através da propriedade `width`;
+- [x] Como ajustar o espaçamento interno do elemento, através da propriedade `padding`;
+- [x] Como ajustar o espaçamento externo do elemento, através da propriedade `margin`;
+- [x] Como se comporta um time de front-end hoje em dia.
 
