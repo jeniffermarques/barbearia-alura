@@ -64,3 +64,8 @@ O que reaprendi hoje?
 - [x] Que o cabeçalho da página deve ter mais destaque;
 - [x] Que não é recomendando criar estilos usando tags.
 
+**14/05/2021 - Posicionamento, listas e navegação**
+
+O que reaprendi hoje?
+
+- [x] 
