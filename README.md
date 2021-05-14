@@ -44,5 +44,5 @@ O que reaprendi hoje?
 - [x] Como ajustar a largura do elemento, através da propriedade `width`;
 - [x] Como ajustar o espaçamento interno do elemento, através da propriedade `padding`;
 - [x] Como ajustar o espaçamento externo do elemento, através da propriedade `margin`;
-- [x] Como se comporta um time de front-end hoje em dia,
+- [x] Como se comporta um time de front-end hoje em dia.
 
