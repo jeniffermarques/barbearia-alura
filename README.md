@@ -21,7 +21,7 @@ O que reaprendi hoje?
 - [x] Como separar as informações que estão sendo passadas para o navegador, utilizando a *tag* **`<head>`**;
 - [x] Como separar o conteúdo da página, utilizando a *tag* **`<body>`**.
 
-### 12/05/2021 Estilizando imagens, listas e divisões de conteúdos e finalização da página 
+### 12/05/2021 Estilizando imagens 
 
 O que reaprendi hoje?
 
@@ -32,4 +32,17 @@ O que reaprendi hoje?
 - [x] Como funciona o estilo em cascata do CSS;
 - [x] Como importar um arquivo externo de CSS dentro da página HTML;
 - [x] Como representar as cores no CSS (através do nome da cor, hexadecimal e RGB).
+
+### 13/05/2021 Estilizando imagens
+
+O que reaprendi hoje?
+
+- [x] Como reestruturar o nosso código, removendo o CSS inline e colocando-os no arquivo CSS externo
+- [x] Como criar um identificador para marcar especificamente um elemento
+- [x] Como adicionar uma imagem à nossa página
+- [x] Como ajustar a altura do elemento, através da propriedade `height`
+- [x] Como ajustar a largura do elemento, através da propriedade `width`
+- [x] Como ajustar o espaçamento interno do elemento, através da propriedade `padding`
+- [x] Como ajustar o espaçamento externo do elemento, através da propriedade `margin`
+- [x] Como se comporta um time de front-end hoje em dia
 
