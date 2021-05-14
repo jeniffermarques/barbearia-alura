@@ -42,7 +42,7 @@ O que reaprendi?
 - [x] Como ajustar o espaçamento externo do elemento, através da propriedade `margin`;
 - [x] Como se comporta um time de front-end hoje em dia.
 
-### 13/05/2021 - Listas e divisões do conteúdo
+### Listas e divisões do conteúdo
 
 O que reaprendi hoje?
 
@@ -64,9 +64,9 @@ O que reaprendi ?
 
 O que reaprendi?
 
-- [ ] A criar link para outras páginas;
-- [ ] Reforço aos estilos `inline` e `block`;
-- [ ] Transformar o texto para ter todas as letras  maiúsculas;
-- [ ] Deixar o texto em negrito com CSS;
-- [ ] Remover a decoração do texto.
+- [x] A criar link para outras páginas;
+- [x] Reforço aos estilos `inline` e `block`;
+- [x] Transformar o texto para ter todas as letras  maiúsculas;
+- [x] Deixar o texto em negrito com CSS;
+- [x] Remover a decoração do texto.
 
