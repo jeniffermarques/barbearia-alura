@@ -95,5 +95,13 @@ O que reaprendi?
 - [x] Diferentes tipos de bordas;
 - [x] Deixar a borda arredondada.
 
+**Pseudo-classes CSS**
+
+O que reaprendi?
+
+- [x] Algumas pseudo-classes CSS que são: hover - quando um usuário passa o cursor sobre o elemento e o active que é quando um elemento está sendo ativado pelo usuário;
+- [x] A mudar a cor do texto e/ou da borda de um elemento, quando o usuário passar o cursos sobre o mesmo;
+- [x] A mudar a cor da borda de um elemento, quando o mesmo estiver sendo ativado pelo usuário.
+
 
 
