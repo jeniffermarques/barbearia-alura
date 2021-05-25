@@ -78,3 +78,12 @@ O que reaprendi?
 - [x] Como funciona os posicionamentos *static*, *relative* e *absolute* dos elementos;
 - [x] Como posicionar o cabeçalho da nossa página.
 
+**A tag section**
+
+O que reaprendi?
+
+- [x] A tag main, para o conteúdo principal da nossa página;
+- [x] A criar listas complexas, com títulos, imagens e parágrafos;
+- [x] A utilizar o inline-block;
+- [ ] A praticar e estilizar o conteúdo principal da página.
+
