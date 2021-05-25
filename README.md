@@ -103,5 +103,11 @@ O que reaprendi?
 - [x] A mudar a cor do texto e/ou da borda de um elemento, quando o usuário passar o cursos sobre o mesmo;
 - [x] A mudar a cor da borda de um elemento, quando o mesmo estiver sendo ativado pelo usuário.
 
+**Finalizando a página de produtos**
 
+O que reaprendi?
+
+- [x] A tag footer, para o rodapé da página;
+- [x] Com o CSS podemos colocar uma imagem de fundo em um elemento: quando colocamos uma imagem de fundo em um elemento, o CSS, por padrão, copia e cola a imagem diversas vezes até ocupar todo o espaço do elemento;
+- [x] A tabela **unicode**.
 
