@@ -70,3 +70,11 @@ O que reaprendi?
 - [x] Deixar o texto em negrito com CSS;
 - [x] Remover a decoração do texto.
 
+**Posicionamento dos elementos**
+
+O que reaprendi?
+
+- [x] Como remover os estilos que o navegador cria automaticamente;
+- [x] Como funciona os posicionamentos *static*, *relative* e *absolute* dos elementos;
+- [x] Como posicionar o cabeçalho da nossa página.
+
