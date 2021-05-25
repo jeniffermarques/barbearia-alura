@@ -87,3 +87,13 @@ O que reaprendi?
 - [x] A utilizar o inline-block;
 - [x] A praticar e estilizar o conteúdo principal da página.
 
+**Lidando com bordas**
+
+O que reaprendi?
+
+- [x] Aplicar bordas nos elementos CSS;
+- [x] Diferentes tipos de bordas;
+- [x] Deixar a borda arredondada.
+
+
+
